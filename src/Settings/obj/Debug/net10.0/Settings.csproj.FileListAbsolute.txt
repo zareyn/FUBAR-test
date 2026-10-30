@@ -1,0 +1,15 @@
+C:\Users\sanyong\Desktop\FUBAR\fubar\src\Settings\bin\Debug\net10.0\Settings.deps.json
+C:\Users\sanyong\Desktop\FUBAR\fubar\src\Settings\bin\Debug\net10.0\Settings.dll
+C:\Users\sanyong\Desktop\FUBAR\fubar\src\Settings\bin\Debug\net10.0\Settings.pdb
+C:\Users\sanyong\Desktop\FUBAR\fubar\src\Settings\bin\Debug\net10.0\Core.dll
+C:\Users\sanyong\Desktop\FUBAR\fubar\src\Settings\bin\Debug\net10.0\Core.pdb
+C:\Users\sanyong\Desktop\FUBAR\fubar\src\Settings\obj\Debug\net10.0\Settings.csproj.AssemblyReference.cache
+C:\Users\sanyong\Desktop\FUBAR\fubar\src\Settings\obj\Debug\net10.0\Settings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanyong\Desktop\FUBAR\fubar\src\Settings\obj\Debug\net10.0\Settings.AssemblyInfoInputs.cache
+C:\Users\sanyong\Desktop\FUBAR\fubar\src\Settings\obj\Debug\net10.0\Settings.AssemblyInfo.cs
+C:\Users\sanyong\Desktop\FUBAR\fubar\src\Settings\obj\Debug\net10.0\Settings.csproj.CoreCompileInputs.cache
+C:\Users\sanyong\Desktop\FUBAR\fubar\src\Settings\obj\Debug\net10.0\Settings.csproj.Up2Date
+C:\Users\sanyong\Desktop\FUBAR\fubar\src\Settings\obj\Debug\net10.0\Settings.dll
+C:\Users\sanyong\Desktop\FUBAR\fubar\src\Settings\obj\Debug\net10.0\refint\Settings.dll
+C:\Users\sanyong\Desktop\FUBAR\fubar\src\Settings\obj\Debug\net10.0\Settings.pdb
+C:\Users\sanyong\Desktop\FUBAR\fubar\src\Settings\obj\Debug\net10.0\ref\Settings.dll

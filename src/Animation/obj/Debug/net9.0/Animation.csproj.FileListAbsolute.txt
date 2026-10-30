@@ -1,0 +1,15 @@
+C:\Users\sanyong\Desktop\FUBAR\fubar\src\Animation\bin\Debug\net9.0\Animation.deps.json
+C:\Users\sanyong\Desktop\FUBAR\fubar\src\Animation\bin\Debug\net9.0\Animation.dll
+C:\Users\sanyong\Desktop\FUBAR\fubar\src\Animation\bin\Debug\net9.0\Animation.pdb
+C:\Users\sanyong\Desktop\FUBAR\fubar\src\Animation\bin\Debug\net9.0\Core.dll
+C:\Users\sanyong\Desktop\FUBAR\fubar\src\Animation\bin\Debug\net9.0\Core.pdb
+C:\Users\sanyong\Desktop\FUBAR\fubar\src\Animation\obj\Debug\net9.0\Animation.csproj.AssemblyReference.cache
+C:\Users\sanyong\Desktop\FUBAR\fubar\src\Animation\obj\Debug\net9.0\Animation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanyong\Desktop\FUBAR\fubar\src\Animation\obj\Debug\net9.0\Animation.AssemblyInfoInputs.cache
+C:\Users\sanyong\Desktop\FUBAR\fubar\src\Animation\obj\Debug\net9.0\Animation.AssemblyInfo.cs
+C:\Users\sanyong\Desktop\FUBAR\fubar\src\Animation\obj\Debug\net9.0\Animation.csproj.CoreCompileInputs.cache
+C:\Users\sanyong\Desktop\FUBAR\fubar\src\Animation\obj\Debug\net9.0\Animation.csproj.Up2Date
+C:\Users\sanyong\Desktop\FUBAR\fubar\src\Animation\obj\Debug\net9.0\Animation.dll
+C:\Users\sanyong\Desktop\FUBAR\fubar\src\Animation\obj\Debug\net9.0\refint\Animation.dll
+C:\Users\sanyong\Desktop\FUBAR\fubar\src\Animation\obj\Debug\net9.0\Animation.pdb
+C:\Users\sanyong\Desktop\FUBAR\fubar\src\Animation\obj\Debug\net9.0\ref\Animation.dll

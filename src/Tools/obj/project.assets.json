@@ -1,0 +1,137 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "Animation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Animation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Animation.dll": {}
+        }
+      },
+      "Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.dll": {}
+        }
+      },
+      "Game/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Animation": "1.0.0",
+          "Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Game.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Animation/1.0.0": {
+      "type": "project",
+      "path": "../Animation/Animation.csproj",
+      "msbuildProject": "../Animation/Animation.csproj"
+    },
+    "Core/1.0.0": {
+      "type": "project",
+      "path": "../Core/Core.csproj",
+      "msbuildProject": "../Core/Core.csproj"
+    },
+    "Game/1.0.0": {
+      "type": "project",
+      "path": "../Game/Game.csproj",
+      "msbuildProject": "../Game/Game.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "Core >= 1.0.0",
+      "Game >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\sanyong\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\sanyong\\Desktop\\FUBAR\\fubar\\src\\Tools\\Tools.csproj",
+      "projectName": "Tools",
+      "projectPath": "C:\\Users\\sanyong\\Desktop\\FUBAR\\fubar\\src\\Tools\\Tools.csproj",
+      "packagesPath": "C:\\Users\\sanyong\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sanyong\\Desktop\\FUBAR\\fubar\\src\\Tools\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\sanyong\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "C:\\Users\\sanyong\\Desktop\\FUBAR\\fubar\\src\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\sanyong\\Desktop\\FUBAR\\fubar\\src\\Core\\Core.csproj"
+            },
+            "C:\\Users\\sanyong\\Desktop\\FUBAR\\fubar\\src\\Game\\Game.csproj": {
+              "projectPath": "C:\\Users\\sanyong\\Desktop\\FUBAR\\fubar\\src\\Game\\Game.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "10.0.100"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
